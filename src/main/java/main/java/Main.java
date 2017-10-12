@@ -3,6 +3,8 @@ import java.util.*;
 
 public class Main {
 
+	//my main class
+
     private static int rows1=0,rows2=0;
     private static int columns1=0,columns2=0;
     private static ArrayList<String> characters = new ArrayList<String>(10);
